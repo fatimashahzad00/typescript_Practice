@@ -1,0 +1,1 @@
+TypeScript Point 1 = Hello World
