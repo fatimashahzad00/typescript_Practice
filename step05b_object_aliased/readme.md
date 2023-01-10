@@ -1,0 +1,1 @@
+interfaces and aliased object exaample

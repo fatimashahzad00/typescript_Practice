@@ -1,0 +1,1 @@
+intersection object types example

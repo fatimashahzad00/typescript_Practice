@@ -1,0 +1,1 @@
+structural typing example cases and signature type example
